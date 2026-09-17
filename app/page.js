@@ -29,6 +29,12 @@ const SYSTEMS = [
     url: "https://chat.fades.lol",
     status: "Coming soon",
   },
+  {
+    name: "Fades Domains",
+    description: "Simple, easy domain management.",
+    url: "https://domains.fades.lol",
+    status: "Coming soon",
+  },
 ];
 
 function Logo({ size = 42 }) {
